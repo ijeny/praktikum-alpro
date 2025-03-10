@@ -1,9 +1,9 @@
 # string : text
 nama = 'seiji'
 # integer : bilangan bulat 
-umur = '25'
+umur = 25
 # float : bilangan desimal 
-IPK = '3.85'
+IPK = 3.85
 # list : multiple data 
 barang = ['tas','buku','laptop']
 # tuple : multiple data
